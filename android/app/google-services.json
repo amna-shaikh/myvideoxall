@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168932673605",
+    "project_id": "newcallproject-91a38",
+    "storage_bucket": "newcallproject-91a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168932673605:android:99256a593c5c3cd2793b2c",
+        "android_client_info": {
+          "package_name": "com.example.myvideoxall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsS3wxIOenFqQuVMAYSn39I9tbSc8HiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
